@@ -1,1 +1,0 @@
-let random_array:string[]=['k2','Motorway','Lahore','Urdu','France','Corolla'];
